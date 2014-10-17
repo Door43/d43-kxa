@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kxa:home|Door43 (kxa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kxa|d43-kxa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kxa/archive/master.zip|d43-kxa.zip]]
+
+**Recent Changes**
+{{changes>ns = kxa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kxa|Ethnologue data]]
+
